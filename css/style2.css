@@ -1,6 +1,8 @@
 .column {
-    width: 400px;
-    height: 900px;
+    padding: 5px;
+    background-color: aliceblue;
+    width: 30%;
+    height: 33%;
     float: left;
 }
 
