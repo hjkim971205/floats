@@ -1,5 +1,10 @@
 .column {
     width: 400px;
+    height: 900px;
+    float: left;
+}
+
+.index {
     float: left;
 }
 
